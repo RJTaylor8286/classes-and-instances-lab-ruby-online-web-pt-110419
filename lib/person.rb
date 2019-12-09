@@ -2,4 +2,4 @@ class Person
 end
 
 Mike = Person.new 
-James = 
+James = Person.new
